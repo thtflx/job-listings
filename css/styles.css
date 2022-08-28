@@ -121,7 +121,10 @@ img {
 }
 
 .job-vacation-info {
+    position: relative;
+    top: 5px;
     margin-right: 311px;
+    align-items: center;
 }
 
 
