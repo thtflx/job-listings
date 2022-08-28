@@ -70,10 +70,6 @@ img {
 
 /* SITE-HEADER */
 
-.header {}
-
-.site-header {}
-
 .site-header-img {
     width: 1366px;
     height: 156px;
@@ -215,6 +211,7 @@ img {
 /* VACATION TAGS */
 
 .job-vacation-tags {
+    position: relative;
     margin: 0;
 }
 
@@ -256,3 +253,12 @@ img {
     border-radius: 12px;
     background-color: var(--light-black);
 }
+
+
+/* moved-tag */
+
+
+/* .moved-tag {
+    position: absolute;
+    right: -340px;
+} */
